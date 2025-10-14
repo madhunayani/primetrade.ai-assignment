@@ -1,18 +1,6 @@
 
 ***
 
-## 📂 Step 12.1: Create Main Project README
-
-### **CMD Commands:**
-
-```cmd
-cd D:\MERN Stack Projects\primetrade-assignment
-type nul > README.md
-```
-
-Open `README.md` in your code editor and paste this **complete documentation**:
-
-```markdown
 # Primetrade.ai Backend Developer Assignment
 
 A full-stack MERN application with JWT authentication, role-based access control, and complete task management functionality.
